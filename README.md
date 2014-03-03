@@ -1,4 +1,7 @@
 #operator-keeppos.vim
+=====================
+
+[![Build Status](https://travis-ci.org/syngan/vim-operator-keeppos.png?branch=master)](https://travis-ci.org/syngan/vim-operator-keeppos)
 
 オペレーション実行後に元の位置に戻る．
 
